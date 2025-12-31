@@ -4,7 +4,7 @@
 
 [![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 [![Status](https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge)](https://github.com/meryemciftci/n8n-ai-agents-learning)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+
 
 ## 📖 Hakkında
 
