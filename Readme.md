@@ -6,11 +6,11 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge)](https://github.com/meryemciftci/n8n-ai-agents-learning)
 
 
-## 📖 Hakkında
+## Hakkında
 
 Bu repo, **n8n**, **LLM'ler** ve **AI Agents** konularında yaptığım pratik çalışmaları ve öğrendiklerimi içeriyor. Her modül için hands-on projeler ve gerçek dünya senaryolarına odaklanıyorum.
 
-### 🎯 Öğrenme Hedefleri
+### Öğrenme Hedefleri
 
 - ✅ n8n ile profesyonel workflow'lar oluşturma
 - ✅ LLM API entegrasyonları (OpenAI, Claude, Deepseek, Gemini)
@@ -19,22 +19,22 @@ Bu repo, **n8n**, **LLM'ler** ve **AI Agents** konularında yaptığım pratik �
 
 ---
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 ```
 n8n-ai-agents-learning/
 │
-├── 01-basics/           # 🎓 Temel Kavramlar & İlk Adımlar
-├── 02-workflows/        # ⚙️ n8n Workflow Örnekleri
-├── 03-llm/             # 🧠 LLM Entegrasyonları
-├── 04-agents/          # 🤖 AI Agent Uygulamaları
-├── 05-rag/             # 📚 RAG & Vector Database
-├── 06-projects/        # 🚀 Gerçek Dünya Projeleri
-└── docs/               # 📝 Notlar & Dokümantasyon
+├── 01-basics/          # Temel Kavramlar & İlk Adımlar
+├── 02-workflows/       # n8n Workflow Örnekleri
+├── 03-llm/             # LLM Entegrasyonları
+├── 04-agents/          # AI Agent Uygulamaları
+├── 05-rag/             # RAG & Vector Database
+├── 06-projects/        # Gerçek Dünya Projeleri
+└── docs/               # Notlar & Dokümantasyon
 ```
 
 ---
 
-## 🛠️ Teknoloji Stack
+## Teknoloji Stack
 
 ### Automation & Workflow
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
